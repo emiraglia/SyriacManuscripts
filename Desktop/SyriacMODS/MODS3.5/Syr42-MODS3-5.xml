@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods version="3.5">
+      <titleInfo>
+         <title>[Fragment from a treatise of theological queries]</title>
+         <subTitle>[manuscript]</subTitle>
+      </titleInfo>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Syriac Manuscripts Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Manuscript Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <typeOfResource manuscript="yes">text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="aat">Manuscripts-19th century.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ir</placeTerm>
+         </place>
+         <dateIssued encoding="marc" point="start" qualifier="questionable">17uu</dateIssued>
+         <dateIssued encoding="marc" point="end" qualifier="questionable">18uu</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="production">
+         <place>
+            <placeTerm type="text">[Iran?],</placeTerm>
+         </place>
+         <publisher/>
+         <dateOther type="production">[19th century?]</dateOther>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">syc</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>1 leaf : paper ; 16 x 10 cm</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <physicalDescription>
+         <form authority="lcsh">manuscript</form>
+      </physicalDescription>
+      <note>Manuscript codex fragment.</note>
+      <note>Title from Goshen-Gottstein catalog.</note>
+      <note type="preferred citation">Burke Library, Union Theological Seminary. UTS Ms. Syr. 42.</note>
+      <note type="language">Syriac; Estrangelo script</note>
+      <note type="version identification">Rubricated.</note>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart type="termsOfAddress">(Biblical figure)</namePart>
+            <namePart>Lot's wife</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Manuscripts, Syriac</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Syriac Christians</topic>
+      </subject>
+      <relatedItem type="isReferencedBy">
+         <titleInfo>
+            <title>Goshen-Gottstein,</title>
+         </titleInfo>
+         <part>
+            <detail type="part">
+               <number>p. 132</number>
+            </detail>
+         </part>
+      </relatedItem>
+      <identifier type="oclc">ocn907320104</identifier>
+      <identifier type="oclc">907320104</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">ZCU</recordContentSource>
+         <recordCreationDate encoding="marc">150414</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20150415165457.0</recordChangeDate>
+         <recordIdentifier>11363617</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+      <location>
+         <physicalLocation>Burke Library</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>UTS Manuscripts</subLocation>
+               <shelfLocator>UTS MS Syr. 42</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

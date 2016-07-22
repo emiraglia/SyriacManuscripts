@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods version="3.5">
+      <titleInfo>
+         <title>[Fragment of Zosimus concerning the Rechabites]</title>
+         <subTitle>[manuscript]</subTitle>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Prayers for everything</title>
+      </titleInfo>
+      <titleInfo type="alternative" altRepGroup="01" script="Latn">
+         <title>Túb ktbn' ṣlút' dḥšḥn lklmdm</title>
+      </titleInfo>
+      <titleInfo type="uniform">
+         <title>Narrative of Zosimus. Syriac</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Gottheil, Richard J. H. (Richard James Horatio)</namePart>
+         <namePart type="date">1862-1936</namePart>
+         <role>
+            <roleTerm type="text">former owner.</roleTerm>
+         </role>
+      </name>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Syriac Manuscripts Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Manuscript Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <typeOfResource manuscript="yes">text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="aat">Manuscripts-17th century.</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">ir</placeTerm>
+         </place>
+         <dateCreated encoding="marc">1689</dateCreated>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="production">
+         <place>
+            <placeTerm type="text">[Iran?],</placeTerm>
+         </place>
+         <publisher/>
+         <dateOther type="production">1689</dateOther>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">syc</languageTerm>
+      </language>
+      <language objectPart="translation">
+         <languageTerm authority="iso639-2b" type="code">und</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>18 leaves, bound : paper ; 22 x 16 cm</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <physicalDescription>
+         <form authority="lcsh">manuscript</form>
+      </physicalDescription>
+      <note>Manuscript codex fragment.</note>
+      <note>Date on manuscript reads in the year 2000 of Alexander.</note>
+      <note>Title from Goshen-Gottstein catalog.</note>
+      <note>Includes: Túb ktbn' ṣlút' dḥšḥn lklmdm: leaves 14-18</note>
+      <note>Annotation in MS pencil on leaf 14: "Prayers for everything."</note>
+      <note type="preferred citation">Burke Library, Union Theological Seminary. UTS Ms. Syr. 33.</note>
+      <note type="acquisition">Gottheil, Richard J. H. Gift 1935</note>
+      <note type="language">Syriac; Madnhaya script, vocalized.</note>
+      <note type="version identification">Red and black ink.</note>
+      <note type="version identification">Leaves 7-14 mutilated.</note>
+      <subject authority="lcsh">
+         <topic>Rechabites</topic>
+         <genre>Early works to 1800</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Syriac Christians</topic>
+         <genre>Prayers and devotions</genre>
+         <genre>Early works to 1800</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Manuscripts, Syriac</topic>
+      </subject>
+      <relatedItem type="isReferencedBy">
+         <titleInfo>
+            <title>Goshen-Gottstein,</title>
+         </titleInfo>
+         <part>
+            <detail type="part">
+               <number>p. 130</number>
+            </detail>
+         </part>
+      </relatedItem>
+      <relatedItem type="constituent">
+         <titleInfo>
+            <title>Túb ktbn' ṣlút' dḥšḥn lklmdm</title>
+         </titleInfo>
+      </relatedItem>
+      <titleInfo type="alternative" altRepGroup="01" script="Latn">
+         <title>ܬܘܒ ܟܬܒܢܐ ܨܠܘܬܐ ܕܚܫܚܢ ܠܟܠܡܕܡ</title>
+      </titleInfo>
+      <identifier type="oclc">ocn907313162</identifier>
+      <identifier type="oclc">907313162</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">ZCU</recordContentSource>
+         <recordCreationDate encoding="marc">150414</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20150415165621.0</recordChangeDate>
+         <recordIdentifier>11363592</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+      <location>
+         <physicalLocation>Burke Library</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>UTS Manuscripts</subLocation>
+               <shelfLocator>UTS MS Syr. 33</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods version="3.5">
+      <titleInfo>
+         <title>Commentary on Gospels</title>
+         <subTitle>[manuscript]</subTitle>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Explanations of four Gospels</title>
+      </titleInfo>
+      <name type="personal" usage="primary">
+         <namePart>Īshōʻdād</namePart>
+         <namePart type="termsOfAddress">of Merv, Bishop of Ḥĕdhatha</namePart>
+         <namePart type="date">active 9th century</namePart>
+         <role>
+            <roleTerm type="text">author.</roleTerm>
+         </role>
+      </name>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Syriac Manuscripts Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Manuscript Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <typeOfResource manuscript="yes">text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="aat">Manuscripts-18th century.</genre>
+      <genre authority="rbbin">Manuscript waste (Binding)</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ir</placeTerm>
+         </place>
+         <dateIssued encoding="marc" point="start" qualifier="questionable">17uu</dateIssued>
+         <dateIssued encoding="marc" point="end" qualifier="questionable">1865</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="production">
+         <place>
+            <placeTerm type="text">[Iran?],</placeTerm>
+         </place>
+         <publisher/>
+         <dateOther type="production">[between 18th and 19th centuries]</dateOther>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">syc</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>155 leaves, bound : paper ; 32 x 21 cm</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <physicalDescription>
+         <form authority="lcsh">manuscript</form>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00">by Mar Dadeshoo.</note>
+      <note>Manuscript codex.</note>
+      <note>Title from annotation on title page in the hand of Henry Preserved Smith.</note>
+      <note>Possibly copied from another manuscript dated 1689.</note>
+      <note>Signatures: 1⁸ 2-15¹⁰ 16⁸.</note>
+      <note type="preferred citation">Burke Library, Union Theological Seminary. UTS Ms. Syr. 17.</note>
+      <note type="acquisition">Donated to Union Theological Seminary by Henry Preserved Smith, March 20, 1927.</note>
+      <note type="language">Syriac; Mad̲nḥāyā script, vocalized throughout.</note>
+      <note type="ownership">Bought in by Revs. G. W. Coan and J. H. Shedd, May 1865.</note>
+      <note type="ownership">Title page marked "Library of Nestorian Mission."</note>
+      <note type="version identification">Red and black ink.</note>
+      <subject authority="lcsh">
+         <titleInfo>
+            <title>Bible</title>
+            <partName>Gospels</partName>
+         </titleInfo>
+         <genre>Commentaries</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Manuscripts, Syriac</topic>
+      </subject>
+      <relatedItem type="isReferencedBy">
+         <titleInfo>
+            <title>Goshen-Gottstein,</title>
+         </titleInfo>
+         <part>
+            <detail type="part">
+               <number>126</number>
+            </detail>
+         </part>
+      </relatedItem>
+      <identifier type="oclc">ocn907681516</identifier>
+      <identifier type="oclc">907681516</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">ZCU</recordContentSource>
+         <recordCreationDate encoding="marc">150421</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20150421162750.0</recordChangeDate>
+         <recordIdentifier>11375511</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+      <location>
+         <physicalLocation>Burke Library</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>UTS Manuscripts</subLocation>
+               <shelfLocator>UTS MS Syr. 17</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

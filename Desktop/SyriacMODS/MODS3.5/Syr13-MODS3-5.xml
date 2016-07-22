@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods version="3.5">
+      <titleInfo altRepGroup="01" script="Latn">
+         <title>ktb dzmyrt' dṭwbn' `m tšbḥt' wkrwzwt' wshd'</title>
+         <subTitle>[manuscript]</subTitle>
+      </titleInfo>
+      <titleInfo type="uniform">
+         <title>Bible</title>
+         <partName>Psalms. Syriac</partName>
+      </titleInfo>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Syriac Manuscripts Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Manuscript Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <typeOfResource manuscript="yes">text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="aat">Manuscripts-18th century.</genre>
+      <genre authority="rbgenr">Psalters.</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">ir</placeTerm>
+         </place>
+         <dateCreated encoding="marc">1785</dateCreated>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="production">
+         <place>
+            <placeTerm type="text">[Urūmīyah, Iran?],</placeTerm>
+         </place>
+         <publisher/>
+         <dateOther type="production">[1785]</dateOther>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">syc</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>174 leaves, bound : paper ; 22 x 17 cm</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <physicalDescription>
+         <form authority="lcsh">manuscript</form>
+      </physicalDescription>
+      <note>Manuscript codex.</note>
+      <note>Title from colophon.</note>
+      <note>Date on manuscript is Adar 2096 Sel.</note>
+      <note type="preferred citation">Burke Library, Union Theological Seminary. UTS Ms. Syr. 13.</note>
+      <note type="acquisition">Shedd, J.H. ; Purchased ; 1885.</note>
+      <note type="language">Syriac; Madnhaya script, vocalized throughout.</note>
+      <note type="version identification">Text in double columns; rubricated throughout; decorative illuminations in red, green, and gold.</note>
+      <subject authority="lcsh">
+         <topic>Hymns, Syriac</topic>
+         <genre>Early works to 1800</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Manuscripts, Syriac</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Illumination of books and manuscripts, Syrian</topic>
+         <genre>Specimens</genre>
+      </subject>
+      <relatedItem type="isReferencedBy">
+         <titleInfo>
+            <title>Goshen-Gottstein,</title>
+         </titleInfo>
+         <part>
+            <detail type="part">
+               <number>p. 124</number>
+            </detail>
+         </part>
+      </relatedItem>
+      <titleInfo altRepGroup="01" script="Latn">
+         <title>.ܟܬܒܐ ܕܙܡܝܪܬܐ ܕܛܘܒܢܐ ܕܘܝܕ ܥܡ ܬܫܒܚܬܐ ܘܟܪܘܙܘܬܐ ܘܣܗܕܐ</title>
+      </titleInfo>
+      <identifier type="oclc">ocn907648916</identifier>
+      <identifier type="oclc">907648916</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">ZCU</recordContentSource>
+         <recordCreationDate encoding="marc">150420</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20150420190030.0</recordChangeDate>
+         <recordIdentifier>11375003</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+      <location>
+         <physicalLocation>Burke Library</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>UTS Manuscripts</subLocation>
+               <shelfLocator>UTS MS Syr. 13</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

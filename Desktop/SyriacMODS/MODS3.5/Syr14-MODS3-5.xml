@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods version="3.5">
+      <titleInfo altRepGroup="01" script="Latn">
+         <title>ktb' dsútr' wdšlt' dmrúnít'</title>
+         <subTitle>[manuscript]</subTitle>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Book of services and prayers</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Book of prayers of the seven days of the week</title>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Hall, Isaac H. (Isaac Hollister)</namePart>
+         <namePart type="date">1837-1896</namePart>
+         <role>
+            <roleTerm type="text">annotator.</roleTerm>
+         </role>
+      </name>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Syriac Manuscripts Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Manuscript Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <typeOfResource manuscript="yes">text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="rbgenr">Prayer books.</genre>
+      <genre authority="rbgenr">Breviaries.</genre>
+      <genre authority="aat">Manuscripts-19th century.</genre>
+      <genre authority="rbbin">Plaited headbands (Binding)</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">ir</placeTerm>
+         </place>
+         <dateCreated encoding="marc">1823</dateCreated>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="production">
+         <place>
+            <placeTerm type="text">[Iran?],</placeTerm>
+         </place>
+         <publisher/>
+         <dateOther type="production">1823</dateOther>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">syc</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>160 leaves, bound : paper ; 17 x 11 cm</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <physicalDescription>
+         <form authority="lcsh">manuscript</form>
+      </physicalDescription>
+      <note>Manuscript codex.</note>
+      <note>Title from caption.</note>
+      <note>Date on manuscript reads Tamuz 2134 in the year of the Greeks.</note>
+      <note type="preferred citation">Burke Library, Union Theological Seminary. UTS Ms. Syr. 14.</note>
+      <note type="language">Syriac; Madnhaya script</note>
+      <note type="version identification">Red and black ink.</note>
+      <subject authority="lcsh">
+         <name type="corporate">
+            <namePart>Catholic Church</namePart>
+         </name>
+         <topic>Maronite rite</topic>
+         <topic>Liturgy</topic>
+         <genre>Texts</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Hymns, Syriac</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Manuscripts, Syriac</topic>
+      </subject>
+      <relatedItem type="isReferencedBy">
+         <titleInfo>
+            <title>Clemons</title>
+         </titleInfo>
+         <part>
+            <detail type="part">
+               <number>306</number>
+            </detail>
+         </part>
+      </relatedItem>
+      <relatedItem type="isReferencedBy">
+         <titleInfo>
+            <title>Goshen-Gottstein,</title>
+         </titleInfo>
+         <part>
+            <detail type="part">
+               <number>p. 124</number>
+            </detail>
+         </part>
+      </relatedItem>
+      <titleInfo altRepGroup="01" script="Latn">
+         <title>ܟܬܒܐ ܕܣܘܬܪܐ ܘܕܫܠܬܐ ܕܡܪܘܢܝܐ</title>
+      </titleInfo>
+      <identifier type="oclc">ocn907317366</identifier>
+      <identifier type="oclc">907317366</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">ZCU</recordContentSource>
+         <recordCreationDate encoding="marc">150414</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20150420165432.0</recordChangeDate>
+         <recordIdentifier>11363610</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+      <location>
+         <physicalLocation>Burke Library</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>UTS Manuscripts</subLocation>
+               <shelfLocator>UTS MS Syr. 14</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

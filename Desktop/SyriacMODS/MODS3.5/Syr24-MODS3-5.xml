@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods version="3.5">
+      <titleInfo>
+         <title>[Fragments from a lectionary of the Epistles]</title>
+         <subTitle>[manuscript]</subTitle>
+      </titleInfo>
+      <titleInfo type="uniform">
+         <title>Bible</title>
+         <partName>Epistles of Paul. Syriac</partName>
+      </titleInfo>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Syriac Manuscripts Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Manuscript Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <typeOfResource manuscript="yes">text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="aat">Manuscripts-15th-18th century.</genre>
+      <genre authority="rbgenr">Epistolaries.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ir</placeTerm>
+         </place>
+         <dateIssued encoding="marc" point="start" qualifier="questionable">15uu</dateIssued>
+         <dateIssued encoding="marc" point="end" qualifier="questionable">17uu</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="production">
+         <place>
+            <placeTerm type="text">[Iran?],</placeTerm>
+         </place>
+         <publisher/>
+         <dateOther type="production">[between 16th and 18th century?]</dateOther>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">syc</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>4 leaves : paper ; 21 x 15 cm</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <physicalDescription>
+         <form authority="lcsh">manuscript</form>
+      </physicalDescription>
+      <note>Manuscript codex fragment.</note>
+      <note>Title from Goshen-Gottstein catalog.</note>
+      <note type="preferred citation">Burke Library, Union Theological Seminary. UTS Ms. Syr. 24.</note>
+      <note type="language">Syriac; Madnhaya script, vocalized</note>
+      <subject authority="lcsh">
+         <topic>Epistolaries</topic>
+         <genre>Texts</genre>
+         <genre>Early works to 1800</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Lectionaries</topic>
+         <genre>Texts</genre>
+         <genre>Early works to 1800</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Manuscripts, Syriac</topic>
+      </subject>
+      <relatedItem type="isReferencedBy">
+         <titleInfo>
+            <title>Goshen-Gottstein ;</title>
+         </titleInfo>
+         <part>
+            <detail type="part">
+               <number>p. 128</number>
+            </detail>
+         </part>
+      </relatedItem>
+      <identifier type="oclc">ocn907264226</identifier>
+      <identifier type="oclc">907264226</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">ZCU</recordContentSource>
+         <recordCreationDate encoding="marc">150413</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20150415164651.0</recordChangeDate>
+         <recordIdentifier>11362680</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </mods>
+</modsCollection>

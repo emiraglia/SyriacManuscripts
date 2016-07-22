@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods version="3.5">
+      <titleInfo>
+         <title>[Damaged fragment of pharmaceutical or magical prescription]</title>
+         <subTitle>[manuscript]</subTitle>
+      </titleInfo>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Syriac Manuscripts Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Manuscript Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <typeOfResource manuscript="yes">text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="aat">Manuscripts-19th century.</genre>
+      <genre authority="rbbin">Manuscript waste (Binding)</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">xx</placeTerm>
+         </place>
+         <dateIssued encoding="marc" point="start" qualifier="questionable">1800</dateIssued>
+         <dateIssued encoding="marc" point="end" qualifier="questionable">1900</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="production">
+         <place>
+            <placeTerm type="text">[place of production not identified],</placeTerm>
+         </place>
+         <publisher/>
+         <dateOther type="production">[19th century?]</dateOther>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">syc</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>1 leaf : paper, on wooden board ; 30 x 22 cm</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <physicalDescription>
+         <form authority="lcsh">manuscript</form>
+      </physicalDescription>
+      <note>Manuscript codex fragment.</note>
+      <note>Title from Goshen-Gottstein catalog.</note>
+      <note type="preferred citation">Burke Library, Union Theological Seminary. UTS Ms. Syr. 48.</note>
+      <note type="language">Syriac; Madnhaya script</note>
+      <subject authority="lcsh">
+         <topic>Manuscripts, Syriac</topic>
+      </subject>
+      <relatedItem type="isReferencedBy">
+         <titleInfo>
+            <title>Goshen-Gottstein ;</title>
+         </titleInfo>
+         <part>
+            <detail type="part">
+               <number>p 133</number>
+            </detail>
+         </part>
+      </relatedItem>
+      <identifier type="oclc">ocn907645934</identifier>
+      <identifier type="oclc">907645934</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">ZCU</recordContentSource>
+         <recordCreationDate encoding="marc">150420</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20150420150947.0</recordChangeDate>
+         <recordIdentifier>11374783</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+      <location>
+         <physicalLocation>Burke Library</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>UTS Manuscripts</subLocation>
+               <shelfLocator>UTS MS Syr. 48</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

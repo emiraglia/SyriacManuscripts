@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods version="3.5">
+      <titleInfo>
+         <title>Syriac New Testament found among the Nestorians</title>
+         <subTitle>[manuscript]</subTitle>
+      </titleInfo>
+      <titleInfo type="uniform">
+         <title>Bible. Peshitta</title>
+         <partName>New Testament. Syriac</partName>
+      </titleInfo>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Syriac Manuscripts Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Manuscript Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <typeOfResource manuscript="yes">text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="aat">Manuscripts.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">ir</placeTerm>
+         </place>
+         <dateIssued encoding="marc" point="start" qualifier="questionable">10uu</dateIssued>
+         <dateIssued encoding="marc" point="end" qualifier="questionable">15uu</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="production">
+         <place>
+            <placeTerm type="text">[Iran?],</placeTerm>
+         </place>
+         <publisher/>
+         <dateOther type="production">[between 11th and 14th centuries?]</dateOther>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">syc</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>174 leaves, bound : vellum ; 22 x 17 cm</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <physicalDescription>
+         <form authority="lcsh">manuscript</form>
+      </physicalDescription>
+      <note>Manuscript codex.</note>
+      <note>Title from inscription on pastedown.</note>
+      <note>Clemons gives a date of 1180.</note>
+      <note>Some rubrication throughout.</note>
+      <note>Foliation supplied in pencil.</note>
+      <note type="preferred citation">Burke Library, Union Theological Seminary. UTS Ms. Syr. 1.</note>
+      <note type="acquisition">Gift to Union Theological Seminary from Dr. James B. Gregg, ca. 1885.</note>
+      <note type="language">Syriac; Estrangelo script, Mad̲nḥāyā vocalization.</note>
+      <note type="ownership">Gift "to Prof. N.W. Fiske from his brother in Christ, Justin Perkins."</note>
+      <note type="version identification">Blind-tooled red morocco binding.</note>
+      <subject authority="lcsh">
+         <topic>Manuscripts, Syriac</topic>
+      </subject>
+      <relatedItem type="isReferencedBy">
+         <titleInfo>
+            <title>Goshen-Gottstein,</title>
+         </titleInfo>
+         <part>
+            <detail type="part">
+               <number>p. 120</number>
+            </detail>
+         </part>
+      </relatedItem>
+      <relatedItem type="isReferencedBy">
+         <titleInfo>
+            <title>Clemons,</title>
+         </titleInfo>
+         <part>
+            <detail type="part">
+               <number>293</number>
+            </detail>
+         </part>
+      </relatedItem>
+      <identifier type="oclc">ocn906626569</identifier>
+      <identifier type="oclc">906626569</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">ZCU</recordContentSource>
+         <recordCreationDate encoding="marc">150204</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20150406175955.0</recordChangeDate>
+         <recordIdentifier>11259992</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+      <location>
+         <physicalLocation>Burke Library</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>UTS Manuscripts</subLocation>
+               <shelfLocator>UTS MS Syr. 1</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+      <titleInfo>
+         <title>Syriac manuscript Gospels with a fragment of the epistle of James</title>
+         <subTitle>[manuscript]</subTitle>
+      </titleInfo>
+      <titleInfo type="uniform">
+         <title>Bible. Peshitta</title>
+         <partName>Gospels. Syriac</partName>
+      </titleInfo>
+      <titleInfo type="uniform">
+         <title>Bible. Peshitta</title>
+         <partName>James. Syriac</partName>
+      </titleInfo>
+      <name type="personal">
+         <namePart>Hall, Isaac H. (Isaac Hollister)</namePart>
+         <namePart type="date">1837-1896</namePart>
+         <role>
+            <roleTerm type="text">binder.</roleTerm>
+         </role>
+      </name>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Syriac Manuscripts Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="Collection">
+         <name type="corporate">
+            <namePart>Manuscript Collection (Burke Library, Union Theological Seminary)</namePart>
+         </name>
+      </relatedItem>
+      <typeOfResource manuscript="yes">text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="aat">Manuscripts-12th century.</genre>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">tu</placeTerm>
+         </place>
+         <dateIssued encoding="marc" point="start" qualifier="questionable">11uu</dateIssued>
+         <dateIssued encoding="marc" point="end" qualifier="questionable">12uu</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="production">
+         <place>
+            <placeTerm type="text">[Mardin, Turkey?]</placeTerm>
+         </place>
+         <publisher/>
+         <dateOther type="production">[approximately 12th century]</dateOther>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">syc</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>146 leaves, bound : vellum ; 18 x 13 cm</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <physicalDescription>
+         <form authority="lcsh">manuscript</form>
+      </physicalDescription>
+      <note>Title from printed title page added by Isaac Hall.</note>
+      <note>Preface by Isaac Hall on 2 additional printed leaves following title page.</note>
+      <note>Manuscript codex.</note>
+      <note type="preferred citation">Burke Library, Union Theological Seminary. UTS Ms. Syr. 2.</note>
+      <note type="acquisition">Presented to Union Theological Seminary in 1872.</note>
+      <note type="language">Syriac; Estrangelo script</note>
+      <note type="ownership">Obtained in Mardin, Mesopotamia by Rev. Alphaeus N. Andrus.</note>
+      <note type="version identification">Rubricated throughout, but irregularly.</note>
+      <subject authority="lcsh">
+         <topic>Manuscripts, Syriac</topic>
+      </subject>
+      <relatedItem type="isReferencedBy">
+         <titleInfo>
+            <title>Goshen-Gottstein,</title>
+         </titleInfo>
+         <part>
+            <detail type="part">
+               <number>p. 121</number>
+            </detail>
+         </part>
+      </relatedItem>
+      <relatedItem type="isReferencedBy">
+         <titleInfo>
+            <title>Clemons</title>
+         </titleInfo>
+         <part>
+            <detail type="part">
+               <number>294</number>
+            </detail>
+         </part>
+      </relatedItem>
+      <relatedItem type="constituent">
+         <titleInfo>
+            <title>Bible. Syriac. Peshitta</title>
+            <partName>James. Syriac</partName>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">ocn907252762</identifier>
+      <identifier type="oclc">907252762</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">ZCU</recordContentSource>
+         <recordCreationDate encoding="marc">150203</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20150415164414.0</recordChangeDate>
+         <recordIdentifier>11260000</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+      <location>
+         <physicalLocation>Burke Library</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>UTS Manuscripts</subLocation>
+               <shelfLocator>UTS MS Syr. 2</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

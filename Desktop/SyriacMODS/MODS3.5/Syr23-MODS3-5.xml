@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods version="3.5">
+      <titleInfo altRepGroup="01" script="Latn">
+         <title>Túb bíd 'lh' ktb 'nz š'lt' dš'l `zr' spr'</title>
+         <subTitle>[manuscript]</subTitle>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Questions of Ezra the scribe concerning the eschata</title>
+      </titleInfo>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Syriac Manuscripts Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Manuscript Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <typeOfResource manuscript="yes">text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="aat">Manuscripts-19th century.</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">ir</placeTerm>
+         </place>
+         <dateCreated encoding="marc">1884</dateCreated>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="production">
+         <place>
+            <placeTerm type="text">[Iran?],</placeTerm>
+         </place>
+         <publisher/>
+         <dateOther type="production">1884</dateOther>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">syc</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>10 leaves : paper ; 22 x 19 cm</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <physicalDescription>
+         <form authority="lcsh">manuscript</form>
+      </physicalDescription>
+      <note>Manuscript codex.</note>
+      <note>Title from caption.</note>
+      <note>Date from colphon.</note>
+      <note>Manuscript copy made in 1884 from a manuscript of the 17th century; cf. The Presbyterian Review, vol. 7, no. 27 (1886), p. 537.</note>
+      <note type="preferred citation">Burke Library, Union Theological Seminary. UTS Ms. Syr. 23.</note>
+      <note type="acquisition">Gift of Mrs. E. A. Brinckerhoff.</note>
+      <note type="language">Syriac; Madnhaya script</note>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart type="termsOfAddress">(Biblical figure)</namePart>
+            <namePart>Ezra</namePart>
+         </name>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Eschatology</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Manuscripts, Syriac</topic>
+      </subject>
+      <relatedItem type="isReferencedBy">
+         <titleInfo>
+            <title>Clemons</title>
+         </titleInfo>
+         <part>
+            <detail type="part">
+               <number>307</number>
+            </detail>
+         </part>
+      </relatedItem>
+      <relatedItem type="isReferencedBy">
+         <titleInfo>
+            <title>Goshen-Gottstein,</title>
+         </titleInfo>
+         <part>
+            <detail type="part">
+               <number>p. 128</number>
+            </detail>
+         </part>
+      </relatedItem>
+      <titleInfo altRepGroup="01" script="Latn">
+         <title>ܬܘܒ ܒܝܕ ܐܠܗܐ ܟܬܒ ܐܢܙ ܫܠܬܐ ܕܫܐܠ ܥܙܪܐ ܣܦܪܐ</title>
+      </titleInfo>
+      <identifier type="oclc">ocn907265145</identifier>
+      <identifier type="oclc">907265145</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">ZCU</recordContentSource>
+         <recordCreationDate encoding="marc">150413</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20150415164619.0</recordChangeDate>
+         <recordIdentifier>11362681</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+      <location>
+         <physicalLocation>Burke Library</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>UTS Manuscripts</subLocation>
+               <shelfLocator>UTS MS Syr. 23</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>

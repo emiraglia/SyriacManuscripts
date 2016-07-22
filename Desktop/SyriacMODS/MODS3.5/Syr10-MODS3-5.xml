@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods version="3.5">
+      <titleInfo altRepGroup="01" script="Latn">
+         <title>ṭks' d`úpy' dkl gns</title>
+         <subTitle>[manuscript]</subTitle>
+      </titleInfo>
+      <titleInfo type="alternative">
+         <title>Service of obsequies</title>
+      </titleInfo>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Syriac Manuscripts Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem type="host" displayLabel="Collection">
+         <titleInfo>
+            <title>Manuscript Collection (Burke Library, Union Theological Seminary)</title>
+         </titleInfo>
+      </relatedItem>
+      <typeOfResource manuscript="yes">text</typeOfResource>
+      <genre authority="rdacontent">text</genre>
+      <genre authority="aat">Manuscripts-18th century.</genre>
+      <originInfo script="Latn">
+         <place>
+            <placeTerm type="code" authority="marccountry">ir</placeTerm>
+         </place>
+         <dateCreated encoding="marc">1735</dateCreated>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <originInfo eventType="production">
+         <place>
+            <placeTerm type="text">[Darband, Iran],</placeTerm>
+         </place>
+         <publisher/>
+         <dateOther type="production">1735</dateOther>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">syc</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>138 leaves, bound : paper ; 23 x 16 cm</extent>
+         <form type="media" authority="rdamedia">unmediated</form>
+         <form type="carrier" authority="rdacarrier">volume</form>
+      </physicalDescription>
+      <physicalDescription>
+         <form authority="lcsh">manuscript</form>
+      </physicalDescription>
+      <note>Date on manuscript is 2046 in the year of the Greeks.</note>
+      <note>Manuscript codex.</note>
+      <note>Title from colophon.</note>
+      <note type="preferred citation">Burke Library, Union Theological Seminary. UTS Ms. Syr. 10.</note>
+      <note type="language">Syriac; Madnhaya script, vocalized</note>
+      <note type="version identification">In black ink, with rubrication throughout; 19 lines per page.</note>
+      <subject authority="lcsh">
+         <topic>Syriac Christians</topic>
+         <topic>Funeral customs and rites</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Funeral rites and ceremonies</topic>
+         <genre>Early works to 1800</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Syriac Christians</topic>
+         <topic>Liturgy</topic>
+         <genre>Texts</genre>
+         <genre>Early works to 1800</genre>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Manuscripts, Syriac</topic>
+      </subject>
+      <relatedItem type="isReferencedBy">
+         <titleInfo>
+            <title>Clemons</title>
+         </titleInfo>
+         <part>
+            <detail type="part">
+               <number>298</number>
+            </detail>
+         </part>
+      </relatedItem>
+      <relatedItem type="isReferencedBy">
+         <titleInfo>
+            <title>Goshen-Gottstein,</title>
+         </titleInfo>
+         <part>
+            <detail type="part">
+               <number>p. 123</number>
+            </detail>
+         </part>
+      </relatedItem>
+      <titleInfo altRepGroup="01" script="Latn">
+         <title>ܛܟܣܐ ܕܥܘܦܝܐ ܕܟܠ ܓܢܣ</title>
+      </titleInfo>
+      <identifier type="oclc">ocn907254889</identifier>
+      <identifier type="oclc">907254889</identifier>
+      <recordInfo>
+         <descriptionStandard>rda</descriptionStandard>
+         <recordContentSource authority="marcorg">ZCU</recordContentSource>
+         <recordCreationDate encoding="marc">150413</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20150415164430.0</recordChangeDate>
+         <recordIdentifier>11362582</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+      <location>
+         <physicalLocation>Burke Library</physicalLocation>
+         <holdingSimple>
+            <copyInformation>
+               <subLocation>UTS Manuscripts</subLocation>
+               <shelfLocator>UTS Syr. 10</shelfLocator>
+            </copyInformation>
+         </holdingSimple>
+      </location>
+   </mods>
+</modsCollection>
